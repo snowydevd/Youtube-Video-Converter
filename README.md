@@ -5,7 +5,7 @@
 - Have Python installated (https://www.python.org/downloads/)
 
 # Additional:
-- Install the pytube and tkinter dependencies after launch
+- Install the pytube and tkinter dependencies before launch
 ```
     pip install tkinter
     pip install pytube
